@@ -82,7 +82,7 @@ while turns > 0:
     
         # print "You Loose"
             print "You Loose"
-    print "end game" 
+    print "try again" 
 
 
 
