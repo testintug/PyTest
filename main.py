@@ -82,9 +82,7 @@ while turns > 0:
     
         # print "You Loose"
             print "You Loose"
-    print "try add comment 
-    
-    +7"  
+    print "try add comment 111"  
 
 
 
